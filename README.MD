@@ -99,8 +99,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ## 👤 Author
 
-**Ravula Ajay**
-🔗 [GitHub Profile](https://github.com/RAVULAAJAY)
-
+**Shivakoti Shambhavi**
+🔗 [GitHub Profile](https://github.com/dashboard)
 ---
 > ✨ This project is currently under active development.
